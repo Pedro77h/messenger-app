@@ -1,0 +1,6 @@
+[submodule "messenger-api"]
+	path = messenger-api
+	url = https://github.com/Pedro77h/messenger-api.git
+[submodule "messenger-authservice"]
+	path = messenger-authservice
+	url = https://github.com/Pedro77h/messenger-authservice.git
